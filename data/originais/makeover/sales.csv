@@ -2,20 +2,20 @@ Regiao,Fase,Percentagem
 Norte,Acordo,28
 Norte,Conversa,26
 Norte,Oferta Formal,19
-Norte,Presentação,13
+Norte,Apresentação,13
 Norte,Prospecto,14
 Sul,Acordo,26
 Sul,Conversa,28
 Sul,Oferta Formal,17
-Sul,Presentação,12
+Sul,Apresentação,12
 Sul,Prospecto,17
 Leste,Acordo,29
 Leste,Conversa,32
 Leste,Oferta Formal,22
-Leste,Presentação,8
+Leste,Apresentação,8
 Leste,Prospecto,9
 Oeste,Acordo,31
 Oeste,Conversa,24
 Oeste,Oferta Formal,18
-Oeste,Presentação,12
+Oeste,Apresentação,12
 Oeste,Prospecto,15
