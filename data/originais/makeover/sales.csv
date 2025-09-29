@@ -1,21 +1,21 @@
-Regiao,Fase,Percentagem
-Norte,Acordo,28
-Norte,Conversa,26
-Norte,Oferta Formal,19
-Norte,Apresentação,13
-Norte,Prospecto,14
-Sul,Acordo,26
-Sul,Conversa,28
-Sul,Oferta Formal,17
-Sul,Apresentação,12
-Sul,Prospecto,17
-Leste,Acordo,29
-Leste,Conversa,32
-Leste,Oferta Formal,22
-Leste,Apresentação,8
-Leste,Prospecto,9
-Oeste,Acordo,31
-Oeste,Conversa,24
-Oeste,Oferta Formal,18
-Oeste,Apresentação,12
-Oeste,Prospecto,15
+Regiao,Fase,Percentagem,Ordem
+Norte,Acordo,28,4
+Norte,Conversa,26,2
+Norte,Oferta Formal,19,5
+Norte,Apresentação,13,3
+Norte,Prospecto,14,1
+Sul,Acordo,26,4
+Sul,Conversa,28,2
+Sul,Oferta Formal,17,5
+Sul,Apresentação,12,3
+Sul,Prospecto,17,1
+Leste,Acordo,29,4
+Leste,Conversa,32,2
+Leste,Oferta Formal,22,5
+Leste,Apresentação,8,3
+Leste,Prospecto,9,1
+Oeste,Acordo,31,4
+Oeste,Conversa,24,2
+Oeste,Oferta Formal,18,5
+Oeste,Apresentação,12,3
+Oeste,Prospecto,15,1
